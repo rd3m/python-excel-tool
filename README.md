@@ -1,1 +1,1 @@
-I made this tool for a friend. It generates an xlsx file in the required format for the supplier. This is different from the format used internally and was a manual process to convert the file into the required format but now it can be by running this script.
+I made this tool for a friend. It generates an xlsx file in the required format for the supplier. This is different from the format used internally and was a manual process to convert the file into the required format but now it can be done by running this script.
